@@ -1,0 +1,1 @@
+This is a java program that calculates and prints your weight on Mars, Jupiter, Uranus and Neptune in a formatted way according to your inputted weight on Earth."# Weight-Calculator-For-Other-Planets" 
